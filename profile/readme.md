@@ -7,7 +7,7 @@ Sie können die wichtigsten Repositories, das Projekt Sprint Board und eine Spie
 ## Repositories
 
 - [App](https://github.com/SE2-S26-Gruppe2-ScotlandYard/ScotlandYard-App) (Android/Kotlin)
-- [Server](https://github.com/SE2-S26-Gruppe2-ScotlandYard/ScotlandYard-Server) (Spring Boot/Kotlin)
+- [Server](https://github.com/SE2-S26-Gruppe2-ScotlandYard/ScotlandYard-Server) (Spring Boot/Java)
 - [Projektboard](https://github.com/orgs/SE2-S26-Gruppe2-ScotlandYard/projects/6)
 
 ---
