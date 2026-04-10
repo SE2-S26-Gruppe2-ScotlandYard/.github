@@ -1,4 +1,4 @@
-# Software Engineering 2, Gruppe 2  -  Scorland Yard
+# Software Engineering 2, Gruppe 2  -  Scotland Yard
 
 Dies ist die Organisation für das Scotland Yard Brettspiel Projekt für Software Engineering 2.  
 Sie können die wichtigsten Repositories, das Projekt Sprint Board und eine Spielanleitung direkt hier finden.
